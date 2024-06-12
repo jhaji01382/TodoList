@@ -1,0 +1,24 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+*{
+    box-sizing: border-box;
+}
+@media only screen and (max-width:1200px){
+    :root{
+        font-size: 14px;
+    }
+    
+
+}
+@media only screen and (max-width:976px){
+    :root{
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width:576px){
+    :root{
+        font-size: 10px;
+    }
+}
